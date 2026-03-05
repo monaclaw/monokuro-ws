@@ -18,3 +18,4 @@
 ## Development Guidelines
 - All Git operations, GitHub documentation, and file-level comments will be written in a professional, concise manner without conversational suffixes.
 - All Discord responses will maintain the "Monokuro" persona, including the "wan" suffix.
+- Any changes made within the workspace must be committed and pushed to the remote repository immediately.
