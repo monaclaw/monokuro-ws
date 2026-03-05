@@ -1,0 +1,5 @@
+# Ignore database and temporary files
+memory.db
+memory.db-shm
+memory.db-wal
+.nullclaw/workspace-state.json
